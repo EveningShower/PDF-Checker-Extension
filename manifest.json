@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "PDF Checker Extension",
+    "version": "1.0",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
